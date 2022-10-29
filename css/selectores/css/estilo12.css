@@ -1,0 +1,46 @@
+/*selector universal*/
+/**{
+    background-color: rgb(209, 84, 12);
+    
+}*/
+
+body{
+    background-color: rgb(45, 225, 21);
+}
+
+header{
+    background-color: rgb(230, 187, 172);
+}
+.centrarimg{
+    text-align:center ;
+}
+
+main{
+    background-color: rgb(184, 139, 226);
+}
+
+
+img{
+    width: 20%;
+
+}
+
+
+
+h3{
+    background-color: blue;
+
+}
+footer{
+    background-color: aqua;
+}
+
+p{
+    background-color: dimgray;
+}
+/*selctor de clases*/
+
+.parrafo{
+    color: yellow;
+}
+
